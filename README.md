@@ -2,6 +2,7 @@
 
 Russian -
 
+
 Это репозиторий с моей конфигурацией для Hyprlend и Noctalia-Shell v4.
 
 Коротко
@@ -31,7 +32,11 @@ Russian -
 Автор
 - Martom-69jd
 
+
+
 English -
+
+
 
 This is a repository with my configuration for Hyprland and Noctalia-Shell v4.
 
